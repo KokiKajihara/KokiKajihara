@@ -25,7 +25,7 @@
 | | |
 |---|---|
 | LOCATION | Japan |
-| BRAND | NovaChord — AI Music Project |
+| BRAND | NovaChord — AI Music Project · BitbizDesign |
 | DOMAINS | AI Music Generation · Video Automation · LLMO/AIO · Solo Entrepreneurship |
 | STANCE | Human × AI の対等なコラボレーション |
 
