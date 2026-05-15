@@ -54,9 +54,9 @@ AIに発見・引用される情報設計を研究。SEO以後のWebコンテン
 **AI TOOLS**
 
 ![Claude](https://img.shields.io/badge/CLAUDE-001646?style=flat-square&logo=anthropic&logoColor=white)
-![SUNO](https://img.shields.io/badge/SUNO-001646?style=flat-square&logoColor=white)
-![Runway](https://img.shields.io/badge/RUNWAY-001646?style=flat-square&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/CHATGPT-001646?style=flat-square&logo=openai&logoColor=white)
+![Runway](https://img.shields.io/badge/RUNWAY-001646?style=flat-square&logoColor=white)
+![SUNO](https://img.shields.io/badge/SUNO-001646?style=flat-square&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/MIDJOURNEY-001646?style=flat-square&logoColor=white)
 
 **DEVELOPMENT**
@@ -66,12 +66,6 @@ AIに発見・引用される情報設計を研究。SEO以後のWebコンテン
 ![Git](https://img.shields.io/badge/GIT-001646?style=flat-square&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-001646?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-001646?style=flat-square&logoColor=white)
-
-**CREATIVE TOOLS**
-
-![FFmpeg](https://img.shields.io/badge/FFMPEG-001646?style=flat-square&logo=ffmpeg&logoColor=white)
-![librosa](https://img.shields.io/badge/LIBROSA-001646?style=flat-square&logoColor=white)
-![MoviePy](https://img.shields.io/badge/MOVIEPY-001646?style=flat-square&logoColor=white)
 
 ---
 
