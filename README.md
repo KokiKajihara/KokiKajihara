@@ -11,7 +11,7 @@
 [![Website](https://img.shields.io/badge/novachord.jp-00D4FF?style=for-the-badge&logo=safari&logoColor=black)](https://novachord.jp)
 [![Spotify](https://img.shields.io/badge/NovaChord_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/)
 [![X](https://img.shields.io/badge/@bitboi-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bitboi)
-[![GitHub](https://img.shields.io/badge/Cohkun-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cohkun)
+[![GitHub](https://img.shields.io/badge/KokiKajihara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KokiKajihara)
 
 </div>
 
@@ -91,21 +91,21 @@ AIに発見・引用される情報設計を研究。SEO以後のWebコンテン
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cohkun&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&border_color=30363d&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KokiKajihara&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=c9d1d9&border_color=30363d&count_private=true" />
 &nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cohkun&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokiKajihara&layout=compact&theme=dark&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Cohkun&theme=dark&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681&border=30363d)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KokiKajihara&theme=dark&background=0d1117&ring=00d4ff&fire=7b2fff&currStreakLabel=00d4ff&sideLabels=c9d1d9&dates=6e7681&border=30363d)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Cohkun&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KokiKajihara&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,7 +118,7 @@ AI活用やソロクリエイターの働き方に関する話題は、いつで
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Cohkun&style=flat-square&color=00d4ff&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=KokiKajihara&style=flat-square&color=00d4ff&label=Profile+Views)
 
 <br>
 
