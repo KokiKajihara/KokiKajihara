@@ -68,14 +68,6 @@ AIに発見・引用される情報設計を研究。SEO以後のWebコンテン
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KokiKajihara&show_icons=true&bg_color=ffffff&title_color=001646&icon_color=001646&text_color=111111&border_color=001646&count_private=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KokiKajihara&layout=compact&bg_color=ffffff&title_color=001646&text_color=111111&border_color=001646" />
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KokiKajihara&background=ffffff&ring=001646&fire=001646&currStreakLabel=001646&sideLabels=111111&dates=888888&border=001646)](https://git.io/streak-stats)
 
 </div>
