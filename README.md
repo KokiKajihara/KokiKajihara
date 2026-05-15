@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&weight=400&size=15&pause=1400&color=001646&center=true&vCenter=true&repeat=true&width=600&lines=AI+%E3%81%A8%E3%80%8C%E7%B5%84%E3%82%80%E3%80%8D%E3%83%87%E3%82%B8%E3%82%BF%E3%83%AB%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC;AI+Music+%7C+Video+Automation+%7C+LLMO%2FAIO;Building+where+humans+%26+AI+collaborate+as+equals;NovaChord+%E2%80%94+Japan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Helvetica+Neue&weight=400&size=15&pause=1400&color=001646&center=true&vCenter=true&repeat=true&width=600&lines=AI+Music+%7C+Video+Automation+%7C+AI+Design;NovaChord+%7C+BitbizDesign+%E2%80%94+Japan;Building+where+humans+%26+AI+collaborate+as+equals)](https://git.io/typing-svg)
 
 <br>
 
@@ -19,29 +19,31 @@
 
 ## ABOUT
 
-> AIを **「使う」** のではなく **「組む」** ことで、ソロでも複数領域の創作を成立させる働き方を探求。  
-> 音楽生成AI・LLM・自動化ツールを組み合わせ、音楽から映像、Web、執筆までを一気通貫で制作。
+AIを **「使う」** のではなく **「組む」** ことで、ソロでも複数領域の創作を成立させる働き方を探求しています。音楽・映像・デザイン・Webを一気通貫で制作。
 
 | | |
 |---|---|
 | LOCATION | Japan |
-| BRAND | NovaChord — AI Music Project · BitbizDesign |
-| DOMAINS | AI Music Generation · Video Automation · LLMO/AIO · Solo Entrepreneurship |
-| STANCE | Human × AI の対等なコラボレーション |
+| BRANDS | NovaChord — AI Music · BitbizDesign — AI Design |
+| DOMAINS | AI Music · Video Automation · AI Design · LLMO/AIO |
 
 ---
 
 ## ACTIVITIES
 
-**AI MUSIC CREATION — NOVACHORD**
+**🎵 AI MUSIC CREATION — NOVACHORD**
 
-SUNOをはじめとするAI音楽生成ツールを駆使した楽曲制作。プロンプトエンジニアリングと音楽理論を組み合わせ、AIとの共作という形で楽曲を発表しています。
+SUNOをはじめとするAI音楽生成ツールと音楽理論を掛け合わせ、AIとの共作という形で楽曲を制作・発表しています。
 
-**MUSIC VIDEO AUTOMATION**
+**🎬 MUSIC VIDEO AUTOMATION**
 
-音声解析（librosa）→ AI映像生成（Runway）→ 編集合成（MoviePy / FFmpeg）までを自動化する個人パイプラインを開発中。
+音声解析（librosa）→ AI映像生成（Runway）→ 編集合成（MoviePy / FFmpeg）までを自動化する制作パイプラインを開発中。
 
-**LLMO / AIO RESEARCH**
+**🎨 AI DESIGN — BITBIZDESIGN**
+
+AIツールを活用したデザイン制作。ビジュアル・Web・グラフィックをAIと組んで効率的かつクリエイティブに制作しています。
+
+**🌐 LLMO / AIO RESEARCH**
 
 AIに発見・引用される情報設計を研究。SEO以後のWebコンテンツ戦略として、構造化データやAI可読な記述設計を実践しています。
 
@@ -49,18 +51,27 @@ AIに発見・引用される情報設計を研究。SEO以後のWebコンテン
 
 ## SKILLS
 
+**AI TOOLS**
+
 ![Claude](https://img.shields.io/badge/CLAUDE-001646?style=flat-square&logo=anthropic&logoColor=white)
 ![SUNO](https://img.shields.io/badge/SUNO-001646?style=flat-square&logoColor=white)
 ![Runway](https://img.shields.io/badge/RUNWAY-001646?style=flat-square&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/CHATGPT-001646?style=flat-square&logo=openai&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/MIDJOURNEY-001646?style=flat-square&logoColor=white)
+
+**DEVELOPMENT**
+
 ![Python](https://img.shields.io/badge/PYTHON-001646?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-001646?style=flat-square&logo=javascript&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-001646?style=flat-square&logo=git&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/CLAUDE_CODE-001646?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-001646?style=flat-square&logoColor=white)
+
+**CREATIVE TOOLS**
+
 ![FFmpeg](https://img.shields.io/badge/FFMPEG-001646?style=flat-square&logo=ffmpeg&logoColor=white)
 ![librosa](https://img.shields.io/badge/LIBROSA-001646?style=flat-square&logoColor=white)
+![MoviePy](https://img.shields.io/badge/MOVIEPY-001646?style=flat-square&logoColor=white)
 
 ---
 
